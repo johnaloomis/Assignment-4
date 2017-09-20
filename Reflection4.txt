@@ -1,0 +1,3 @@
+The requests are given to the middleware that runs function needed in the controller. 
+The controller runs whatever CRUD method need to be run to complete the request.
+This changes the database by going through the models. 
